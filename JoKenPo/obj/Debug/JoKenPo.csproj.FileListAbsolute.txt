@@ -1,0 +1,32 @@
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+D:\Codigos C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.SuggestedBindingRedirects.cache
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+D:\Linguagem de Programação\Codigos C#\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.SuggestedBindingRedirects.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\JoKenPo-JOGOgame\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
